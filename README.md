@@ -1,4 +1,4 @@
-<h1 align="center"> Eurobot 2026: Main Robot Simulation in Gazebo </h1>
+<h1 align="center">🤖♊Eurobot 2026: Main Robot Simulation in Gazebo♊🤖</h1>
 
 This repository contains the complete simulation of my robotics team's main robot for the Eurobot 2026 competition. It focuses on high-fidelity physics and sensor integration to validate navigation algorithms before implementing them on the physical hardware. 
 
