@@ -23,3 +23,8 @@ To achieve autonomous navigation, the following sensors have been integrated and
 - IMU (Inertial Measurement Unit): Provides orientation and angular velocity data, essential for EKF (Extended Kalman Filter) fusion.
 
 - Odometry: Real-time position tracking calculated from wheel encoders within the ros2_control loop.
+
+## Contact & hiring note
+If you're interested in hiring or reviewing more of my work, please check the public repos in my GitHub profile or contact me directly. I originally developed this project as tooling for my university robotics team; additional robot-specific integrations live in private team repositories.
+
+If you need more details, feel free to contact me via my GitHub profile.
