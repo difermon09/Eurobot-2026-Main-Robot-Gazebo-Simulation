@@ -11,7 +11,7 @@ The simulation is developed using ROS 2 Humble and Gazebo, providing a robust di
 - Frame Validation: Fully calibrated transform tree (TF) validated via RViz2 to ensure sensor mounting points and wheel centers are mathematically accurate.
 
 ### 2. Physics & Control
-- `ros2_control` Integration: Implementation of a Mecanum Drive Controller. This allows for omnidirectional movement, simulating the complex kinematics of the robot's 4-wheel omnidirectional drive.
+- `ros2_control`: Implementation of a Mecanum Drive Controller. This allows for omnidirectional movement, simulating the complex kinematics of the robot's 4-wheel omnidirectional drive.
 
 - Gazebo: A configured world with realistic friction coefficients and gravity to test motor torque and acceleration profiles.
 
